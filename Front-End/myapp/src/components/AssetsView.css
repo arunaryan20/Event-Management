@@ -1,0 +1,33 @@
+.assetsMainDiv{
+    background-image: url("../Assets/event.jpg");   
+     background-repeat:no-repeat;
+   left: 0;
+   right: 0;
+   height: 100%;
+     background-size:cover;
+     position: fixed;
+     background-position:center;
+ }
+ .assetsFormDiv{
+     margin: auto;
+     width: 20%;
+     /* border: 1px solid rgb(245, 245, 245); */
+     padding: 10px;
+     border-radius: 5px;
+     /* margin-top: 20px; */
+ }
+ 
+
+.cardTitle{
+    font-size: 15px;
+}
+.cardText{
+     font-size: 10px;
+}
+.cardItem{
+   font-size: 10px;
+}
+.updateBtn{
+   font-size: 10px;
+   text-align: center;
+}

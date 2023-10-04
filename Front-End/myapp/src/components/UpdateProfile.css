@@ -1,0 +1,62 @@
+.updateMainDiv{
+    background-image: url("../Assets/event.jpg");   
+     background-repeat:no-repeat;
+   left: 0;
+   right: 0;
+   height: 100%;
+     background-size:cover;
+     /* position: fixed; */
+     background-position:center;
+     padding-bottom: 20px;
+     padding-top: 20px;
+ }
+ .updateFormDiv{
+     margin: auto;
+     width: 30%;
+     border: 1px solid rgb(245, 245, 245);
+     padding: 10px;
+     border-radius: 5px;
+     margin-top: 10px;
+     background-color: gray;
+  
+ }
+ 
+ .updateLabel{
+     font-size: 10px;
+     color: white;
+ }
+ .updateInput{
+     height: 15px;
+     font-size: 8px;
+ }
+ .btnSubmit{
+     height: 15px;
+     width: 50px;
+     font-size: 8px;
+    text-align: center;
+     margin-top: 10px;
+     background-color:green;
+ }
+ .updateImg{
+    height: 50px;
+    width: 50px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50px;
+  border-width: 0.2px;
+  border-color: white;
+  border-style: solid;
+  background-color: white;
+ }
+ .imgUpload{
+    font-size: 5px;
+    height: 20px;
+ }
+ .updateMainName{
+    font-size: 18px;
+    font-family: cursive;
+    margin-left: 20px;
+    color: white;
+    position: fixed;
+}
